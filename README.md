@@ -13,7 +13,7 @@ Hi there! I'm a Computer Science graduate with a specialization in software deve
 
 📱 Creator of EzLearnApp – an Android productivity app for learners
 
-🧰 Skilled in Java, C#, Python, Android (MVVM), Firebase, Room, and Git
+🧰 Skilled in Java, C#, Python, Android (MVVM), SQL, Firebase, Room, and Git
 
 📊 Also interested in UI/UX, data analysis, and design patterns
 
