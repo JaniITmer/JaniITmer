@@ -1,16 +1,21 @@
 ## Hi there 👋
+Hey 👋, I'm Janos
+Software Developer | BSc in Computer Science | Tech Enthusiast
 
-<!--
-**JaniITmer/JaniITmer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there! I'm a Computer Science graduate with a specialization in software development and testing. I'm passionate about creating useful, user-centered applications and writing clean, maintainable code. One of my latest projects is EzLearnApp, an Android app designed to support focused learning with the Pomodoro technique and task management features.
 
-Here are some ideas to get you started:
+👨‍💻 About me
+🎓 Bachelor’s degree in Computer Science, specialized in software development and testing
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💡 Passionate about software engineering, mobile development, and clean architecture
+
+📱 Creator of EzLearnApp – an Android productivity app for learners
+
+🧰 Skilled in Java, C#, Python, Android (MVVM), Firebase, Room, and Git
+
+📊 Also interested in UI/UX, data analysis, and design patterns
+
+🌱 Currently expanding my knowledge in full-stack development
+
+🚀 Projects
+🔹 EzLearnApp – Android study aid with Pomodoro, task management, leaderboard & more
