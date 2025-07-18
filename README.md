@@ -14,7 +14,7 @@ Hi there! I'm a Computer Science graduate with a specialization in software deve
 
 💡 Passionate about software engineering, mobile development, and clean architecture
 
-📱 Creator of EzLearnApp – an Android productivity app for learners
+📱 Creator of [**EzLearnApp**]([https://uni-eszterhazy.hu/](https://github.com/JaniITmer/EzLearnApp)  – an Android productivity app for learners
 
 🧰 Skilled in Java, C#, Python, Android (MVVM), Laravel, SQL, Firebase, Room, and Git
 
