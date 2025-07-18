@@ -1,5 +1,5 @@
-## Hi there 👋
-Hey 👋, I'm Janos
+## Hey 👋, I'm Janos
+
 
 Software Developer | BSc in Computer Science | Tech Enthusiast
 
