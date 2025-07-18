@@ -10,7 +10,7 @@ Hi there! I'm a Computer Science graduate with a specialization in software deve
 
 📄[**View my Resume**](https://github.com/JaniITmer/JaniITmer/blob/main/CV_Eng.pdf)
 
-🎓 Graduated from EKKE university with a BSc in Computer Science
+🎓 Graduated from [**EKKE**](https://uni-eszterhazy.hu/) university with a BSc in Computer Science
 
 💡 Passionate about software engineering, mobile development, and clean architecture
 
