@@ -7,7 +7,7 @@ Hi there! I'm a Computer Science graduate with a specialization in software deve
 
 👨‍💻 About me
 
-🎓 Bachelor’s degree in Computer Science, specialized in software development and testing
+🎓 Graduated from EKKE university with a BSc in Computer Science
 
 💡 Passionate about software engineering, mobile development, and clean architecture
 
