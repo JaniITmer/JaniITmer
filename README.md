@@ -5,8 +5,8 @@ Software Developer | BSc in Computer Science | Tech Enthusiast
 
 Hi there! I'm a Computer Science graduate with a specialization in software development and testing. I'm passionate about creating useful, user-centered applications and writing clean, maintainable code. One of my latest projects is EzLearnApp, an Android app designed to support focused learning with the Pomodoro technique and task management features.
 
+### 👨‍💻 About me
 
-##👨‍💻 About me
 
 📄[**View my Resume**](https://github.com/JaniITmer/JaniITmer/blob/main/CV_Eng.pdf)
 
