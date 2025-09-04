@@ -8,7 +8,7 @@ Hi there! I'm a Computer Science graduate with a specialization in software deve
 ### 👨‍💻 About me
 
 
-📄[**View my Resume**](https://github.com/JaniITmer/JaniITmer/blob/main/CV_Eng.pdf)
+📄[**View my Resume**](https://github.com/JaniITmer/JaniITmer/blob/main/János_Nagy_CV_ENG.pdf)
 
 🎓 Graduated from [**EKKE**](https://uni-eszterhazy.hu/) university with a BSc in Computer Science
 
